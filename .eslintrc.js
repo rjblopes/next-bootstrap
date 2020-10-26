@@ -36,7 +36,8 @@ module.exports = {
       alias: [
         ['@root', './'],
         ['@components', './components'],
-        ['@lib', './lib']
+        ['@lib', './lib'],
+        ['@models', './models']
       ]
     }
   }
